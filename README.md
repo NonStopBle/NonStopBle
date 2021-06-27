@@ -55,11 +55,11 @@
 
 <p width="100%" align="center">
     <a align="left" href="https://github.com/NonStopBle/Backdoor" title="Backdoors"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=backdoor&theme=gotham"></a>
-    <a align="right" href="https://github.com/NonStopBle/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=DataStructures&theme=gotham"></a>
+    <a align="right" href="https://github.com/NonStopBle/Relink" title="Relink"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=Relink&theme=gotham"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
-    <a align="left" href="https://github.com/NonStopBle/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=Turkce-Heceleme-CPP&theme=gotham"></a>
+    <a align="left" href="https://github.com/NonStopBle/Reclipy" title="Reclipy"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=Reclipy&theme=gotham"></a>
     <a align="right" href="https://github.com/NonStopBle/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=CopyMoveForgeryDetectionWithDCT&theme=gotham"></a>
 </p>
 <br><br>
