@@ -40,11 +40,11 @@
 <h3 align="center">My Abilities - / Radio Frequency Analysis / Electronic Skill / IOT / Network Testing</h3>
 
 <p align="center">
-    <code><img title="HackRF" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
-    <code><img title="Digispark" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
-    <code><img title="2.4Ghz Jammer" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
-    <code><img title="DEAUTHER WATCH" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-    <code><img title="RPI HACK KIT" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
+    <code><img title="HackRF" height="25" src="https://raw.githubusercontent.com/NonStopBle/NonStopBle/main/res/hackrf.png"></code>
+    <code><img title="Digispark" height="25" src="https://raw.githubusercontent.com/NonStopBle/NonStopBle/main/res/digispark.png"></code>
+    <code><img title="2.4Ghz Jammer" height="25" src="https://raw.githubusercontent.com/NonStopBle/NonStopBle/main/res/jammer.png"></code>
+    <code><img title="DEAUTHER WATCH" height="25" src="https://raw.githubusercontent.com/NonStopBle/NonStopBle/main/res/deauther.png"></code>
+    <code><img title="RPI HACK KIT" height="25" src="https://raw.githubusercontent.com/NonStopBle/NonStopBle/main/res/rpi.png"></code>
 </p>
 
 <hr>
