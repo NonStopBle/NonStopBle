@@ -24,12 +24,10 @@
     <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
     <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
     <code><img title="C#" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
+    <code><img title=".NET" height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6LFnUc_JmUXSyNSUFriOjUgYyT0A3x1YXLErVs9ACEP-EjQVV9K0LTTVSqjvXsEjBbpI&usqp=CAU"></code>
     <code><img title="Python" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/python-original.svg"></code>
-    <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-    <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
     <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
     <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
-    <code><img title="Unity" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity.svg"></code>
 </p>
 
 <hr>
