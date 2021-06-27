@@ -1,4 +1,4 @@
-<h3 align="center">NonStopBle Gi 👋</h3>
+<h3 align="center">NonStopBle Gihub 👋</h3>
 <h5 align="center">
     <code>
     <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn"><img width="22" src="https://github.com/NonStopBle/NonStopBle/blob/master/images/linkedin.svg"> LinkedIn</a></code>
@@ -11,14 +11,14 @@
     <br>
     <br> 💻 I love writing code and learn anythings about coding
     <br> 🔬 I’m currently working on Arduino / .NET Frameworks
-    <br> 📚 I’m currently create a new
+    <br> 📚 I’m currently developing backdoor project
     <br> 💬 Ask me about <a href="https://github.com/NonStopBle/NonStopBle/issues" title="Issues">Here</a>
     <br> 📫 How to reach me: <a href="mailto: ardtyntonnam@gmail.com">ardtyntonnam@gmail.com</a>
 </p>
 
 <hr>
 
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+<h2 align="center">Languages & Frameworks</h2>
 
 <p align="center">
     <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
@@ -30,6 +30,21 @@
     <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
     <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
     <code><img title="Unity" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/unity.svg"></code>
+</p>
+
+<hr>
+
+<hr>
+
+<h1 align="center">Tools & Abilities</h1>
+<h3 align="center">My Abilities - / Radio Frequency Analysis / Electronic Skill / IOT / Network Testing</h3>
+
+<p align="center">
+    <code><img title="HackRF" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
+    <code><img title="Digispark" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
+    <code><img title="2.4Ghz Jammer" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
+    <code><img title="DEAUTHER WATCH" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
+    <code><img title="RPI HACK KIT" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
 </p>
 
 <hr>
