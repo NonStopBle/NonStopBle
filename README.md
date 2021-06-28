@@ -60,7 +60,7 @@
 <br><br>
 <p width="100%" align="center">
     <a align="left" href="https://github.com/NonStopBle/Reclipy" title="Reclipy"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=Reclipy&theme=gotham"></a>
-    <a align="right" href="https://github.com/NonStopBle/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=CopyMoveForgeryDetectionWithDCT&theme=gotham"></a>
+    <a align="right" href="https://github.com/NonStopBle/Repads" title="Repads"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=Repads&theme=gotham"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
