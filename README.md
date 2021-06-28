@@ -7,7 +7,7 @@
 </h5>
 <br>
 <p align="center">
-    Hi, I'm NonStopBle, .NET Developer & Microcontroller Developer
+    Hi, I'm NonStopBle, .NET Developer & Arduino Developer
     <br>
     <br> 💻 I love writing code and learn anythings about coding
     <br> 🔬 I’m currently working on Arduino / .NET Frameworks
