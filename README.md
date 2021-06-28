@@ -9,11 +9,11 @@
 <p align="center">
     Hi, I'm NonStopBle, .NET Developer & Arduino Developer
     <br>
-    <br> 💻 I love writing code and learn anythings about coding
+    <br> 💻 Coding with me at : Discord Link
     <br> 🔬 I’m currently working on Arduino / .NET Frameworks
     <br> 📚 I’m currently developing backdoor project
     <br> 💬 Ask me about <a href="https://github.com/NonStopBle/NonStopBle/issues" title="Issues">Here</a>
-    <br> 📫 How to reach me: <a href="mailto: ardtyntonnam@gmail.com">ardtyntonnam@gmail.com</a>
+    <br> 📫 Contact me: <a href="mailto: ardtyntonnam@gmail.com">ardtyntonnam@gmail.com</a>
 </p>
 
 <hr>
