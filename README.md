@@ -64,8 +64,8 @@
 </p>
 <br><br>
 <p width="100%" align="center">
-    <a align="left" href="https://github.com/NonStopBle/NeedlemanWunschWithOpenMP" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=NeedlemanWunschWithOpenMP&theme=gotham"></a>
-    <a align="right" href="https://github.com/NonStopBle/Artificial_Neural_Networks" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=Artificial_Neural_Networks&theme=gotham"></a>
+    <a align="left" href="https://github.com/NonStopBle/Recheck" title="Recheck"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=Recheck&theme=gotham"></a>
+    <a align="right" href="https://github.com/NonStopBle/Recheck" title="Recheck"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=Rechecks&theme=gotham"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
