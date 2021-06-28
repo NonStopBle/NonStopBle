@@ -1,4 +1,4 @@
-<h3 align="center">NonStopBle Github 👋</h3>
+<h3 align="center">NonStopBle Github 💻</h3>
 <h5 align="center">
  <!--  <code>
     <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn"><img width="22" src="https://github.com/NonStopBle/NonStopBle/blob/master/images/linkedin.svg"> LinkedIn</a></code>
