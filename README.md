@@ -55,7 +55,7 @@
 
 <p width="100%" align="center">
     <a align="left" href="https://github.com/NonStopBle/Backdoor" title="Backdoors"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=backdoor&theme=gotham"></a>
-    <a align="right" href="https://github.com/NonStopBle/Relink" title="Relink"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=Relink&theme=gotham"></a>
+    <a align="right" href="https://github.com/NonStopBle/Rxelink" title="Relink"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=Rexlink&theme=gotham"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
