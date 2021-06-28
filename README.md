@@ -65,7 +65,7 @@
 <br><br>
 <p width="100%" align="center">
     <a align="left" href="https://github.com/NonStopBle/Recheck" title="Recheck"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=Recheck&theme=gotham"></a>
-    <a align="right" href="https://github.com/NonStopBle/Recheck" title="Recheck"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=Rechecks&theme=gotham"></a>
+    <a align="right" href="https://github.com/NonStopBle/Distrucker" title="Distrucker"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=Distrucker&theme=gotham"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
