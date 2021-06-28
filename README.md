@@ -70,7 +70,7 @@
 <br><br>
 <p width="100%" align="center">
     <a align="left" href="https://github.com/NonStopBle/ExP" title="ExP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=ExP&theme=gotham"></a>
-    <a align="right" href="https://github.com/NonStopBle/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=KTU-TraditionalComputerOlympics-2019&theme=gotham"></a>
+  <!--  <a align="right" href="https://github.com/NonStopBle/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=KTU-TraditionalComputerOlympics-2019&theme=gotham"></a> -->
 </p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h4 align="center">
