@@ -10,7 +10,7 @@
     Hi, I'm NonStopBle, .NET Developer & Arduino Developer
     <br>
     <br> 💻 Coding with me at : Discord Link
-    <br> 🔬 I’m currently working on Arduino / .NET Frameworks
+    <br> 🔬 I’m currently working on Embedded Systems / .NET Frameworks / Web Application
     <br> 📚 I’m currently developing backdoor project
     <br> 💬 Ask me about <a href="https://github.com/NonStopBle/NonStopBle/issues" title="Issues">Here</a>
     <br> 📫 Contact me: <a href="mailto: ardtyntonnam@gmail.com">ardtyntonnam@gmail.com</a>
