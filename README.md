@@ -45,37 +45,3 @@
     <code><img title="RPI HACK KIT" height="25" src="https://raw.githubusercontent.com/NonStopBle/NonStopBle/main/res/rpi.png"></code>
 </p>
 
-<hr>
-
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=NonStopBle&show_icons=true&theme=gotham"></a>
-
-<hr>
-
-<h2 align="center">Repositories</h2>
-
-<p width="100%" align="center">
-    <a align="left" href="https://github.com/NonStopBle/Backdoor" title="Backdoors"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=backdoor&theme=gotham"></a>
-    <a align="right" href="https://github.com/NonStopBle/Relink" title="Relink"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=Relink&theme=gotham"></a>
-</p>
-<br><br>
-<p width="100%" align="center">
-    <a align="left" href="https://github.com/NonStopBle/Reclipy" title="Reclipy"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=Reclipy&theme=gotham"></a>
-    <a align="right" href="https://github.com/NonStopBle/Repads" title="Repads"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=Repads&theme=gotham"></a>
-</p>
-<br><br>
-<p width="100%" align="center">
-    <a align="left" href="https://github.com/NonStopBle/Recheck" title="Recheck"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=Recheck&theme=gotham"></a>
-    <a align="right" href="https://github.com/NonStopBle/Distrucker" title="Distrucker"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=Distrucker&theme=gotham"></a>
-</p>
-<br><br>
-<p width="100%" align="center">
-    <a align="left" href="https://github.com/NonStopBle/ExP" title="ExP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=ExP&theme=gotham"></a>
- <a align="right" href="https://github.com/NonStopBle/Reaccept" title="Reaccept"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=NonStopBle&repo=Reaccept&theme=gotham"></a> 
-</p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-<h4 align="center">
-    <a href=https://github.com/NonStopBle?tab=repositories " title="Show Repositories ">🔎 Show More 🔍</a></h4>
-
-<p align = "center ">
-    ⭐️ From <a href="https://github.com/NonStopBle/ ">NonStopBle</a>
-</p>
